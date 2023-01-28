@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# 
+*~
+*.egg-info
+*.EGG-INFO
+*.log
+*.pot
+*.pyc
+*.pyo
+build/
+dist/
+helloworld.db
+local_settings.py
